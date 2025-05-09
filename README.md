@@ -63,15 +63,25 @@ Accede desde tu navegador:
 Copiar
 Editar
 http://localhost:puerto
+
 📁 Estructura del proyecto
+
 Copiar
+
 Editar
+
 admin_motos/
-├── backend/           # Código del servidor (PHP/Node/Flask)
-├── frontend/          # Archivos HTML, CSS y JS
+
+├── backend/# Código del servidor (PHP/Node/Flask)
+
+├── frontend/# Archivos HTML, CSS y JS
+
 ├── database/          # Scripts y archivos de base de datos
+
 ├── images/            # Imágenes de las motos
+
 └── README.md
+
 ✅ Pendientes y mejoras
 Validación avanzada en el formulario de login/registro.
 
